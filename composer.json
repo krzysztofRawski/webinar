@@ -1,0 +1,17 @@
+{
+    "name": "bcim/webinar",
+    "description": "System masowych wykładów w czasie rzeczywistym",
+    "type": "project",
+    "license": "GPL v2",
+    "authors": [
+        {
+            "name": "Krzysztof Rawski",
+            "email": "k.rawski@bcintermedia.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"BCIM\\": "./includes"}
+    }
+}
